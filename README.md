@@ -1,3 +1,3 @@
 # OSSP_assignment
 
-pull
+fetch & merge
